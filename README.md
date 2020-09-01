@@ -33,7 +33,7 @@ Pre requires: [dotnet](https://dotnet.microsoft.com/download)
 
 Launch instruction:
 * run the server
-  * ```dotnet run``
+  * ``dotnet run``
 * Browse http://localhost:5000 || https://localhost:5001
 
 ## Results
